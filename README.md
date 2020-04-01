@@ -1,4 +1,4 @@
-# Web scraping and linear regression to predict Data Science job satisfaction
+# Web scraping and linear regression to predict job satisfaction
 
 I build a web scraper to collect job and company details from Glassdoor. I then employ linear regression (simple, Ridge, Lasso) to predict satisfaction and compensation levels in Data Science jobs.
 
